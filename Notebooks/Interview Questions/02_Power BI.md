@@ -131,7 +131,10 @@
 	- https://myfirstsite99.wordpress.com/what-is-the-definition-of-l1-l2-l3-l4-support-levels-in-it-operations-management/
 - 
 	
-
+34.How to add folder to keep measures in Powerbi?
+      - click on enter data>In bottom in name column provide folder name and click ok
+      -After folder where created in fields pane then push measure into newly created folder
+      -How to push measure in folder>select measure >click on drop down button in home table >select newly created folder
 
 
 

@@ -1,5 +1,0 @@
-# Power BI
-# Problem statement : Importing Huge amount of data into power Bi but it was consuming more time ?
-
-Solution : Doing parametrization
-steps : Go to power query editor >> click on Home >> click on new parameter
